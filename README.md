@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=yashgabani845&label=Profile%20views&color=0e75b6&style=flat" alt="yashgabani845" />
 </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Yashgabani845/count.svg?"  />
+</div>
+
+###
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yash-gabani" target="_blank">
