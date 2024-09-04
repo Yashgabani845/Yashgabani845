@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Gabani</h1>
 <h3 align="center">Web developer and Opensource Contributor</h3>
 
-<h3> gssoc global rank 82<h3/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgabani845&label=Profile%20views&color=0e75b6&style=flat" alt="yashgabani845" /> </p>
 
