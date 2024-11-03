@@ -1,7 +1,7 @@
 
 ---
 # 💫 About Me:
-I am a third-year student at DDU, specializing in full-stack development and problem-solving with a passion for emerging technologies. With a strong foundation in the MERN stack (MongoDB, Express, React, Node.js), I am currently expanding my expertise in DevOps, Next.js, and Machine Learning. I enjoy tackling real-world challenges and building scalable, efficient solutions through modern software practices. My journey as a developer has been driven by continuous learning, innovation, and the desire to leverage cutting-edge tools to create impactful projects.<br><br>
+I am a third-year student at DDU, specializing in full-stack development and problem-solving with a passion for emerging technologies. With a strong foundation in the MERN stack (MongoDB, Express, React, Node.js), I am currently expanding my expertise in DevOps, and Generative AI. I enjoy tackling real-world challenges and building scalable, efficient solutions through modern software practices. My journey as a developer has been driven by continuous learning, innovation, and the desire to leverage cutting-edge tools to create impactful projects.<br><br>
 
 
 ## 🌐 Socials:
